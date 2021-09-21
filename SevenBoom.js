@@ -32,7 +32,8 @@ const sevenBoom = (arr) => {
   return statement;
 };
 
-console.log(sevenBoom([1, 2, 3, 4, 5, 6, 7]));
+// console.log(sevenBoom([1, 2, 3, 4, 5, 6, 7]));
+console.log(sevenBoom([5, 25, 77]));
 // console.log(sevenBoom([1, 2, 4]));
 // console.log(sevenBoom([42, 76, 55, 44, 32]));
 // console.log(sevenBoom([2, 55, 60, 97, 86]));
